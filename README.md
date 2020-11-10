@@ -1,5 +1,4 @@
 # Instagram-Automation
-# Author Richard Nieves
 
 Hi Everyone,
 
